@@ -1,0 +1,2 @@
+#Redirect an entire site to a sub folder
+Redirect 301 / https://azuer88.github.io/myblog/
